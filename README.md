@@ -1,4 +1,4 @@
-# DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback
+# DrugGen enhances drug discovery with large language models and reinforcement learning
 DrugGen is a GPT-2 based model specialized for generating drug-like SMILES structures based on protein sequence. The model leverages the characteristics of approved drug targets and has been trained through both supervised fine-tuning and reinforcement learning techniques to enhance its ability to generate chemically valid, safe, and effective structures.
 
 ![Figure1](https://github.com/user-attachments/assets/6fceee2c-950a-41b3-a841-9664a4dd41fd)
